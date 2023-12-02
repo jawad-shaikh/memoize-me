@@ -1,0 +1,23 @@
+{
+  "name": "memoize-me",
+  "version": "1.0.0",
+  "description": "A simple and efficient utility for converting any function into a memoized function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memoize",
+    "caching",
+    "performance",
+    "utility"
+  ],
+  "author": "Jawad Shaikh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jawad-shaikh/memoize-me.git"
+  },
+  "homepage": "https://github.com/your-username/memoize-me#readme",
+  "dependencies": {}
+}

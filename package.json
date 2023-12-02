@@ -1,6 +1,6 @@
 {
   "name": "memoize-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and efficient utility for converting any function into a memoized function.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "type": "git",
     "url": "https://github.com/jawad-shaikh/memoize-me.git"
   },
-  "homepage": "https://github.com/your-username/memoize-me#readme",
+  "homepage": "https://github.com/jawad-shaikh/memoize-me#readme",
   "dependencies": {}
 }
